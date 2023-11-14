@@ -437,11 +437,9 @@
 				},
 				{
 					"Name": "",
-					"Behavior": "\u0026kp",
+					"Behavior": "\u0026none",
 					"Notes": "",
-					"Args": [
-						"LCTL"
-					]
+					"Args": []
 				},
 				{
 					"Name": "",
@@ -459,25 +457,23 @@
 				},
 				{
 					"Name": "",
-					"Behavior": "\u0026kp",
+					"Behavior": "\u0026none",
 					"Notes": "",
-					"Args": [
-						"LALT"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"LGUI"
-					]
+					"Args": []
 				},
 				{
 					"Name": "",
 					"Behavior": "\u0026none",
 					"Notes": "",
 					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"ENTER"
+					]
 				},
 				{
 					"Name": "",
@@ -2774,7 +2770,7 @@
 					"Behavior": "\u0026kp",
 					"Notes": "",
 					"Args": [
-						"LG(Z)"
+						"LG(LC(Z))"
 					]
 				},
 				{
